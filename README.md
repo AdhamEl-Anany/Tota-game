@@ -1,4 +1,3 @@
-"""
 Tota Game
 ---------
 A 2D endless runner game built with Pygame.
@@ -24,4 +23,4 @@ Requirements:
         graphics/
         audio/
         font/
-"""
+
